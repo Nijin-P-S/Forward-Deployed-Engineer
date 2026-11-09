@@ -1,0 +1,6 @@
+spring:
+  ai:
+    openai:
+      chat:
+        model: ${MODEL_NAME}
+      api-key: ${OPENAI_API_KEY}
